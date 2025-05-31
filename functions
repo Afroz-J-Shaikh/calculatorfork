@@ -3,3 +3,9 @@
 y=a+b
 
 x=a-b
+
+#percent
+a/100=b
+
+#multi
+a*b=c
